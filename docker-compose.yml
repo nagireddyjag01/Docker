@@ -1,0 +1,8 @@
+my-App:
+  image: grafana/grafana
+  ports:
+      - 3000
+
+db:
+ image: mongo
+
