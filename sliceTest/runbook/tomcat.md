@@ -22,3 +22,12 @@ NOTE: if you had any unexpected issue/challengs please check with avilable [OPS 
 
 [OM]:http://wiki.slicetest.com/Ops
 [BT]:http://ops.slicetest.com/cgi-bin/buildnum.pl
+
+* 1st line
+* second line
+    +3rd line   note: use 4 spaces for sub bullit section
+
+
+
+1. line 11
+2. line 22
