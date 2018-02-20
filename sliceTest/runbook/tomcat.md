@@ -1,5 +1,7 @@
 # *Alert:  CRITICAL: 'Tomcat is Running' on 'dt-029872b6b92f16f30.prod.slicetesti.com'*
 
+![Image](./Images/Slice_tomcat_PD.JPG?raw=true)
+
 ## step1: find the instance name
 
 ## step2: check the Instance status in [Build chack tool][BT].
